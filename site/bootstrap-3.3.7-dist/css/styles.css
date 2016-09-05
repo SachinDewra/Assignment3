@@ -84,8 +84,9 @@ line-height: .75;
 }
 #home-tiles {
 	margin-top: 38px;
-	padding: 0px 30px 0px 30px;
-	position: relative;
+	width: 100%;
+	padding: 0px 30px 0px 70px;
+	
 }
 #special-tile {
 	height: auto;
@@ -98,6 +99,7 @@ line-height: .75;
 #special-tile span {
 	position: absolute;
 	width: 100%;
+	padding-top: 10px;
 	text-align: center;
 	font-size: 1.6em;
 	text-transform: uppercase;
